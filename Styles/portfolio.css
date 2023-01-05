@@ -8,7 +8,7 @@
     font-weight: 700;
     font-size: 20px;
     border: 0;
-    padding 18px 35px;
+    padding: 18px 30px;
     height: 64px;
     border-radius: 5px;
     border-radius: 5px;
@@ -56,11 +56,16 @@ header{
 .banner-title{
     font-weight: 700;
     font-size: 85px;
+    margin-bottom: 20px;
 
 }
 .banner-subtitle{
-
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 5px;
 }
 .banner-description{
-    
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
 }
